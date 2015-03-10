@@ -1,0 +1,6 @@
+﻿NIVEL	SEGURIDAD	LONGITUD	LETRAS	NUMEROS	SIMBOLOS
+0		Muy Debil	6			Sí		Sí		No
+1		Debil		7			Sí		Sí		No
+2		Media		8			Sí		Sí		No
+3		Fuerte		9			Sí		Sí		Sí
+4		Muy Fuerte	10			Sí		Sí		Sí
